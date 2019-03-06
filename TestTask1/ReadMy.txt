@@ -1,0 +1,2 @@
+connectionString = @"Data Source =DESKTOP-2N1E70M;Initial Catalog = DATABASE;Integrated Security = True";
+Table:DataBaseFiles
